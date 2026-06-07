@@ -1,7 +1,7 @@
 package com.example.memo.domain;
 
-// Spring frame
-// jakarta 차이??
+// Spring framework
+// jakarta api 차이??
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
